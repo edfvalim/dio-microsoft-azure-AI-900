@@ -1,0 +1,194 @@
+{
+    "documents": [
+        {
+            "id": "id__2063",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.48,
+                "neutral": 0.24,
+                "negative": 0.28
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.85,
+                        "negative": 0.14
+                    },
+                    "offset": 0,
+                    "length": 18,
+                    "text": " No wall charger? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.78,
+                        "negative": 0.09
+                    },
+                    "offset": 18,
+                    "length": 11,
+                    "text": "Seriously?\n",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.82,
+                        "negative": 0.17
+                    },
+                    "offset": 29,
+                    "length": 76,
+                    "text": "Flagship watch, $600 price tag and you can't include a simple wall charger? ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.83,
+                                "negative": 0.17
+                            },
+                            "offset": 39,
+                            "length": 5,
+                            "text": "watch",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.83,
+                                "negative": 0.17
+                            },
+                            "offset": 30,
+                            "length": 8,
+                            "text": "Flagship",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.74,
+                        "negative": 0.24
+                    },
+                    "offset": 105,
+                    "length": 113,
+                    "text": "I don't think it's our of line to say that the vast majority of consumer usb wall chargers are not female usb c. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.96,
+                        "negative": 0.01
+                    },
+                    "offset": 218,
+                    "length": 50,
+                    "text": "It's almost like they're trying to be like apple? ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.44,
+                        "neutral": 0.07,
+                        "negative": 0.49
+                    },
+                    "offset": 268,
+                    "length": 74,
+                    "text": "Watch seems great it of the box, but this charging cord thing bugs me.... ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 269,
+                            "length": 5,
+                            "text": "Watch",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/5/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 311,
+                            "length": 19,
+                            "text": "charging cord thing",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/5/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 281,
+                            "length": 5,
+                            "text": "great",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 331,
+                            "length": 4,
+                            "text": "bugs",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.52,
+                        "neutral": 0.41,
+                        "negative": 0.07
+                    },
+                    "offset": 342,
+                    "length": 90,
+                    "text": "luckily, I had a usb c to usb adapter to charge it, otherwise, I'd be spending more money.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
