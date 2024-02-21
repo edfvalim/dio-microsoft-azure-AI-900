@@ -10,11 +10,11 @@ Para replicar os resultados, siga os passos:
 
 1. **Criação de Recursos no Azure**: 
    - Crie um recurso de Azure AI Search, que gerenciará a indexação e consulta.
-   - Provisione um recurso de Azure AI services, que oferecerá serviços de IA para enriquecer os dados com insights gerados por IA【13†source】.
+   - Provisione um recurso de Azure AI services, que oferecerá serviços de IA para enriquecer os dados com insights gerados por IA.
    - Estabeleça uma conta de armazenamento no Azure para guardar os documentos.
 
 2. **Upload de Documentos para o Azure Storage**:
-   - Crie um container chamado `coffee-reviews` com acesso público no Azure Storage e faça upload dos documentos de análises de café【15†source】.
+   - Crie um container chamado `coffee-reviews` com acesso público no Azure Storage e faça upload dos documentos de análises de café.
 
 3. **Indexação dos Documentos**:
    - Utilize o Azure AI Search para extrair insights dos documentos armazenados. Use o assistente de Importação de Dados no portal Azure para criar um índice e importar seus documentos para o índice do Azure AI Search.
