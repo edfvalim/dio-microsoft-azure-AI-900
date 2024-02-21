@@ -1,4 +1,4 @@
-# Lab02 - Language Studio
+# Lab03 - Language Studio
 
 Projeto referente ao Lab. 03 do bootcamp da DIO sobre a certificação Microsoft AI-900, feito com base nos seguinte material:
 
