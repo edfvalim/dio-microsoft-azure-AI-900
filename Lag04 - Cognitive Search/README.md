@@ -1,4 +1,4 @@
-# Lab03 - Language Studio
+# Lab04 - Cognitive Search
 
 Projeto referente ao Lab. 04 do bootcamp da DIO sobre a certificação Microsoft AI-900, feito com base nos seguinte material:
 
