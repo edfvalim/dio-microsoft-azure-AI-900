@@ -1,3 +1,4 @@
+# Lab02 - AI Vision Service
 
 Projeto referente ao Lab. 02 do bootcamp da DIO sobre a certificação Microsoft AI-900, feito com base nos seguinte material:
 https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
