@@ -1,0 +1,74 @@
+{
+  "apim-request-id": "aa96990a-9113-4c8e-b5ac-75f62ac77bf5",
+  "content-length": "862",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 2128,
+    "height": 1672
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "indoor",
+        "confidence": 0.9982864856719971
+      },
+      {
+        "name": "wall",
+        "confidence": 0.9961992502212524
+      },
+      {
+        "name": "floor",
+        "confidence": 0.9446024894714355
+      },
+      {
+        "name": "bed",
+        "confidence": 0.9331995248794556
+      },
+      {
+        "name": "interior design",
+        "confidence": 0.8857332468032837
+      },
+      {
+        "name": "couch",
+        "confidence": 0.8828310370445251
+      },
+      {
+        "name": "flooring",
+        "confidence": 0.8752754926681519
+      },
+      {
+        "name": "pillow",
+        "confidence": 0.8740749359130859
+      },
+      {
+        "name": "house",
+        "confidence": 0.8735898733139038
+      },
+      {
+        "name": "home appliance",
+        "confidence": 0.855124831199646
+      },
+      {
+        "name": "television",
+        "confidence": 0.7915158271789551
+      },
+      {
+        "name": "room",
+        "confidence": 0.7324919104576111
+      },
+      {
+        "name": "ceiling",
+        "confidence": 0.6119687557220459
+      },
+      {
+        "name": "furniture",
+        "confidence": 0.5501822233200073
+      },
+      {
+        "name": "bedroom",
+        "confidence": 0.5281862020492554
+      }
+    ]
+  }
+}

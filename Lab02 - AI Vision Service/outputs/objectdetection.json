@@ -1,0 +1,42 @@
+{
+  "apim-request-id": "afdb8785-a3b2-4ae4-9c77-7f927df9ba1a",
+  "content-length": "289",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 2034,
+    "height": 2360
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 961,
+          "y": 831,
+          "w": 397,
+          "h": 445
+        },
+        "tags": [
+          {
+            "name": "Laptop",
+            "confidence": 0.662
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 310,
+          "y": 1067,
+          "w": 404,
+          "h": 690
+        },
+        "tags": [
+          {
+            "name": "chair",
+            "confidence": 0.77
+          }
+        ]
+      }
+    ]
+  }
+}

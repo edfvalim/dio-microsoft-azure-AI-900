@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e92fe7a6-307b-4c10-9293-c3592c68ec9b",
+  "content-length": "146",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a book on a couch",
+    "confidence": 0.8606765270233154
+  },
+  "metadata": {
+    "width": 1988,
+    "height": 2042
+  }
+}
